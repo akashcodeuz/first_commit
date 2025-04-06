@@ -1,2 +1,2 @@
 # first_commit
-This is ,y first git Repositry
+This is my first git Repositry
